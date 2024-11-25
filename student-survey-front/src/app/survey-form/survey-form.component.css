@@ -1,0 +1,27 @@
+.survey-form-container {
+    max-width: 600px;
+    margin: auto;
+    background-color: #ffffff;
+    padding: 30px;
+  }
+
+  h2 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+  body{
+    background-color:#FFCC33;
+  }
+  footer {
+    background-color: #006633;
+    color: #fff;
+    padding: 15px 0;
+}

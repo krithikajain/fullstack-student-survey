@@ -1,0 +1,23 @@
+body{
+  background-color:#FFCC33;
+}
+.homepage-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+.header-box{
+  background-color: #ffffff;
+}
+  .survey-logo {
+    width: auto;
+    height: 180px;
+    margin: 0;
+}
+  .homepage-links {
+    margin-top: 20px;
+  }
+  
+  a.btn {
+    margin: 10px;
+  }
+  
