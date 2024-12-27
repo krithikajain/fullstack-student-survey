@@ -1,4 +1,4 @@
-# SWE Assignment 3
+# Student survey form
 ### Team members
 Krithika Jain - G01462514<br>
 Mizba Chougle - G01397586
