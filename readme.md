@@ -1,7 +1,7 @@
 # Student survey form
 ### Team members
-Krithika Jain - G01462514<br>
-Mizba Chougle - G01397586
+Krithika Jain <br>
+Mizba Chougle 
 
 ## Description
 Here, we developed a full-stack application using Angular for the frontend and Spring Boot for the backend. <br>
