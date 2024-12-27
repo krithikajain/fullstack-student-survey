@@ -4,7 +4,7 @@ Krithika Jain - G01462514<br>
 Mizba Chougle - G01397586
 
 ## Description
-In this assignment, we developed a full-stack application using Angular for the frontend and Spring Boot for the backend. <br>
+Here, we developed a full-stack application using Angular for the frontend and Spring Boot for the backend. <br>
 It allows prospective students to:
 - Submit a survey about their campus visit experience.
 - View, update, and delete existing surveys. (CRUD operations)
