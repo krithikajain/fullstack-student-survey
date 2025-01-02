@@ -1,7 +1,7 @@
 # Student survey form
 ### Team members
 Krithika Jain <br>
-Mizba Chougle 
+Mizba Abdul Salam Chougle 
 
 ## Description
 Here, we developed a full-stack application using Angular for the frontend and Spring Boot for the backend. <br>
